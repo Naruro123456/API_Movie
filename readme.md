@@ -7,7 +7,7 @@ Vad min applikation går ut på är att jag med hjälp av en databas kan hämta 
 
 beskrivning av din API: 
 -----------------------------------
-Absolut! The Open Movie Database (OMDb) är en webbplats och en API (Application Programming Interface) som tillhandahåller information om filmer och TV-serier. OMDb samlar in och organiserar data om tusentals filmer och TV-serier från olika källor och erbjuder en plattform för att söka efter filmrelaterad information.
+The Open Movie Database (OMDb) är en API som tillhandahåller information om filmer och TV-serier. OMDb samlar in och organiserar data om tusentals filmer och TV-serier från olika källor och erbjuder en plattform för att söka efter filmrelaterad information. utan vad API är att den  hanterar accesspunkten för den specifika informationen som system behöver kunna tillhandahålla för externa system villket koden/applikationen. 
 
 
 funktionaliteter
